@@ -1,5 +1,5 @@
 # Axiom-IO-Engine 🚀
-
+![Benchmark Proof](benchmark_results.png.jpeg)
 ### **The Problem**
 Standard Python line-by-line parsing is slow and **unreliable.** At scale, standard parsers miss "boundary-split" errors where target strings (like " 500 ") are sliced exactly across I/O memory chunks.
 
