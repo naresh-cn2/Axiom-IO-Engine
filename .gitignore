@@ -1,0 +1,9 @@
+# Ignore the massive log data
+server_logs.txt
+
+# Ignore compiled C binaries and libraries
+chunk_parser
+*.so
+
+# Ignore Python cache
+__pycache__/
